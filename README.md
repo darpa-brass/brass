@@ -7,3 +7,32 @@ Ensuring applications can seamlessly continue to operate correctly and usefully 
 Successfully adapting applications to an evolving ecosystem requires mechanisms to infer the impact of such evolution on application behavior and performance, automatically trigger transformations that beneficially exploit these changes and provide validation that these transformations are correct. To do so requires the ability to: (a) extract whole-system specifications over the entire software stack that can be used to define application-centric descriptions of the resources provided by the ecosystem; (b) leverage new programming abstractions, program analyses, and compilation methodologies to correlate application behavior with salient ecosystem changes; (c) develop semantics-preserving program transformations designed with adaptation in mind; and (d) exploit new runtime systems and virtual machine implementations structured to facilitate the efficient integration of these transformations.
 
 The goal of the Building Resource Adaptive Software Systems program (BRASS) is to realize foundational advances in the design and implementation of long-lived, survivable and complex software systems that are robust to changes in the physical and logical resources provided by their ecosystem. These advances will necessitate integration of new resource-aware program abstractions and analyses, in addition to novel compiler and systems designs to trigger adaptive transformations and validate their effectiveness. 
+
+# Teams - Descriptions and accomplishments TODO pending public release approval
+
+## Southwest Research Institute
+### Adaptive Constraints Satisfaction in Flight Test Configuration and Vehicle Situational Awareness
+
+## University of Washington
+### Sandcat: Adaptive Visualization of Big Data
+
+## SRI International
+### DyAdEm: Dynamic Adaptive Embeded Software
+
+## BAE Systems
+### Regenerative, INtent-Guided Systems (RINGS)
+
+## Rice University
+### Proteus: Cotrolling Resource-Adaptive Embedded Software
+
+## Carnegie Mellon University
+### Generating Hyper-Portable Future-Proof Computational Kernels with SPIRAL
+
+## Raytheon BBN
+### Interfaces, Models, and Monitoring for Resource-aware Transformations that Augment the Lifecycle of Systems (IMMoRTALS)
+
+## Carnegie Mellon University
+### Intelligent Model-Based Adaptation for Mobile Robotics
+
+## Charles River Analytics
+### Probabilistic Representation of Intent Commitments to Ensure Software Survival (PRINCESS)
