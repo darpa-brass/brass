@@ -13,6 +13,10 @@ The goal of the Building Resource Adaptive Software Systems program (BRASS) is t
 ## Southwest Research Institute
 ### Adaptive Constraints Satisfaction in Flight Test Configuration and Vehicle Situational Awareness
 
+#### Repositories
+[Challenge Problems](https://github.com/darpa-brass/challenge-problems)  
+[Database Framework](https://github.com/darpa-brass/adaptive-constraint-satisfaction)  
+
 ## University of Washington
 ### Sandcat: Adaptive Visualization of Big Data
 
