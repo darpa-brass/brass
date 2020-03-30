@@ -31,6 +31,11 @@ The goal of the Building Resource Adaptive Software Systems program (BRASS) is t
 
 ## Carnegie Mellon University
 ### Generating Hyper-Portable Future-Proof Computational Kernels with SPIRAL
+http://www.spiral.net/software/brass.html
+
+#### Repositories
+[SPIRAL](https://github.com/spiral-software/spiral-software)  
+[SPIRAL Hybrid Control Operator Language](https://github.com/spiral-software/spiral-package-hcol)  
 
 ## Raytheon BBN
 ### Interfaces, Models, and Monitoring for Resource-aware Transformations that Augment the Lifecycle of Systems (IMMoRTALS)
