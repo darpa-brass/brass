@@ -47,7 +47,6 @@ http://www.spiral.net/software/brass.html
 ### Probabilistic Representation of Intent Commitments to Ensure Software Survival (PRINCESS)
 
 #### Repositories
-[PRINCESS](https://github.com/darpa-brass/cra-princess)  
 [PRINCESS CP1](https://github.com/darpa-brass/cra-princess-cp1)  
 [PRINCESS CP2](https://github.com/darpa-brass/cra-princess-cp2)  
 [PRINCESS CP3](https://github.com/darpa-brass/cra-princess-cp3)  
