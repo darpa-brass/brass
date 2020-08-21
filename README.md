@@ -50,6 +50,10 @@ Regenerative INtent Guided Systems (RINGS) is an application-neutral software ad
 ### Major Accomplishments
 RINGS adaptation has repaired programs from the ManyBugs benchmark problems, including scaling to localize and repair a defect in PHP among 1M source lines of code. For a DoD fielded tracking application, RINGS automatically upgraded the messaging protocol from STANAG version 2 to version 3; and RINGS tunes the tracking parameters to automatically focus the track picture. RINGS reduced tracker memory usage by removing fields from data structures that do not affect intent. Beyond C/C++ applications, RINGS has also repaired a tracker algorithm implemented in the Coq functional language and adapted non-functional requirements of a formal specification by selecting alternate implementations while preserving correctness. The RINGS SSR API migration tool has migrated client application code from ROS1 to ROS2 for a subset of the API, and automatically secured the communication channels using ROS2 encryption capabilities. 
 
+#### Repositories
+[software evolution library](https://github.com/grammatech/sel)  
+Contributions made to [clang](https://github.com/lvm-mirror/git/clang)  
+
 ## Rice University
 ### Proteus: Cotrolling Resource-Adaptive Embedded Software
 
