@@ -63,6 +63,8 @@ The Proteus project has developed a platform for constructing self-adaptive appl
  ### Major Accomplishments
 Among the major accomplishments of the project is the creation of a programming language, based on the open-source and cross-platform version of Swift, which implements a novel programming model that permits fine-grained manual control over application configuration where necessary, and provides autonomous optimal control of the rest of the configuration. The project led to numerous advances in energy and performance-aware control for embedded and cloud computing applications, including an approach to online reconfiguration that combines feedback control with self-monitoring and machine-learned performance models. The project's inquiry into machine-learned surrogates for dynamic assurance led to novel results in prediction for complex dynamical systems. The project has also designed and formally characterized the Weak Memory Model (WMM) and contributed to the formalization of the open-source RISC-V memory model.
 
+### Repository
+[MetaFAST](https://github.com/darpa-brass/MetaFAST)
 
 ## Carnegie Mellon University
 ### Generating Hyper-Portable Future-Proof Computational Kernels with SPIRAL
